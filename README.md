@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sjorsvanheuveln
-- 👀 I’m interested in Node, React, Express, MongoDB
-- 🌱 I’m currently learning Webpack
-- 💞️ I’m looking to collaborate on Bitcoin
+- 👀 I’m interested in Node, React, Express, MongoDB, Bitcoin
+- 🌱 I’m currently learning MERN & Webpack 
 - 📫 How to reach me: sjorsvanheuveln@gmail.com
 
 <!---
