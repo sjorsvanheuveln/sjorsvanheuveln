@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sjorsvanheuveln
 - 👀 I’m interested in Node, React, Express, MongoDB, Bitcoin
-- 🌱 I’m currently working on a [MERN] boilerplate (https://github.com/sjorsvanheuveln/express-react-boilerplate) & Webpack 5
+- 🌱 I’m currently working on a [MERN](https://github.com/sjorsvanheuveln/express-react-boilerplate) boilerplate  & Webpack 5
 - 📫 How to reach me: sjorsvanheuveln@gmail.com
