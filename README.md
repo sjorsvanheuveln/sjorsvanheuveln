@@ -2,8 +2,9 @@
 Educational Developer
 
 - 👋 Hi, I’m @sjorsvanheuveln
-- 👀 I’m interested in Node, React, Express, MongoDB & Bitcoin
-- 🌱 I’m currently working on a [MERN](https://github.com/sjorsvanheuveln/express-react-boilerplate) boilerplate  & Webpack 5
+- 👀 I’m interested in Education, Technology & Bitcoin
+- 🖥️ Stack: MongoDB, Express, React-Redux & Node (MERN)
+- 🌱 Currently working on a [MERN](https://github.com/sjorsvanheuveln/express-react-boilerplate) boilerplate  & Webpack 5
 - 📫 How to reach me: sjorsvanheuveln@gmail.com
 
 ## My Education Apps
@@ -11,8 +12,13 @@ Educational Developer
 * [Kennisbasis Rekenen](http://kennisbasisrekenen.nl)
 
 ## Bio
-I have a bachelor in Science, Business & Innovation and minored in Molecular Biology.
-Mastered in BioInformatics but didn't want to pursue a PhD.
-Therefore used my programming skills to develop Math Educational Apps for my Math Tutoring Business
-which I started doing my bachelor.
+BSc in Science, Business & Innovation and minored in Molecular Biology.
+MSc BioInformatics
 
+Didn't want to pursue a PhD in science.
+Therefore used my programming skills to develop Math Educational Apps for my Math Tutoring Business
+which I started doing my bachelor (WisCAT Bijles).
+
+## Hobbies
+- Kiting, sailing
+- Dancing
