@@ -1,5 +1,5 @@
 # Sjors van Heuveln
-## Educational Developer
+Educational Developer
 
 - 👋 Hi, I’m @sjorsvanheuveln
 - 👀 I’m interested in Node, React, Express, MongoDB & Bitcoin
@@ -7,8 +7,8 @@
 - 📫 How to reach me: sjorsvanheuveln@gmail.com
 
 ## My Education Apps
-[WisCAT Bijles](https://www.wiscatbijles.nl)
-[Kennisbasis Rekenen](http://kennisbasisrekenen.nl)
+* [WisCAT Bijles](https://www.wiscatbijles.nl)
+* [Kennisbasis Rekenen](http://kennisbasisrekenen.nl)
 
 ## Bio
 I have a bachelor in Science, Business & Innovation and minored in Molecular Biology.
