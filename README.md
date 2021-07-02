@@ -19,6 +19,3 @@ Didn't want to pursue a PhD in science.
 Therefore used my programming skills to develop Math Educational Apps for my Math Tutoring Business
 which I started doing my bachelor (WisCAT Bijles).
 
-## Hobbies
-- Kiting, sailing
-- Dancing
