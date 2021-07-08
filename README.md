@@ -11,6 +11,8 @@ Educational Developer
 * [WisCAT Bijles](https://www.wiscatbijles.nl)
 * [Kennisbasis Rekenen](http://kennisbasisrekenen.nl)
 
+On request I can share parts of the code of my live projects.
+
 ## Bio
 BSc in Science, Business & Innovation and minored in Molecular Biology.
 MSc BioInformatics
