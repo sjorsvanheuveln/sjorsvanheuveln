@@ -14,7 +14,7 @@ Educational Developer
 On request I can share parts of the code of my live projects.
 
 ## ₿itcoin ##
-Currently working on Bitcoin Core and [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
+Currently working on [Bitcoin Core](https://github.com/bitcoin/bitcoin) and [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 
 ## Bio
 BSc in Science, Business & Innovation and minored in Molecular Biology.
